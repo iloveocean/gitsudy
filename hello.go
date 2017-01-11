@@ -6,5 +6,5 @@ func main() {
 	fmt.Println("Hello Golang!")
 	fmt.Println("Hello Golang!")
 	fmt.Println("Hello Peter!")
-	fmt.Println("GitHub Test!")
+	fmt.Println("GitHub ast!")
 }
