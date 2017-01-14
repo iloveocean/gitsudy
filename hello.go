@@ -7,4 +7,6 @@ func main() {
 	fmt.Println("Hello Golang!")
 	fmt.Println("Hello Peter!")
 	fmt.Println("GitHub ast!")
+
+	fmt.Println("Issue1 Golang!")
 }
