@@ -8,7 +8,6 @@ func main() {
 	fmt.Println("Hello Peter!")
 	fmt.Println("GitHub ast!")
 
-	fmt.Println("Issue1 Golang!")
 	fmt.Println("Issue1 test1!")
 	fmt.Println("Issue1 test2!")
 }
