@@ -8,5 +8,5 @@ func main() {
 	fmt.Println("Hello Peter!")
 	fmt.Println("GitHub ast!")
 	fmt.Println("Amend Test!")
-	fmt.Println("test2")
+	fmt.Println("test3")
 }
