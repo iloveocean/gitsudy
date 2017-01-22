@@ -9,5 +9,7 @@ func main() {
 	fmt.Println("GitHub ast!")
 	fmt.Println("Amend Test!")
 	fmt.Println("test3")
+	fmt.Println("test44")
 	fmt.Println("test5")
+	fmt.Println("test6")
 }
